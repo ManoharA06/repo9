@@ -1,8 +1,4 @@
-/**
- * 
- */
-/**
- * 
- */
-module myproject1 {
-}
+public class HelloWorld {
+    public static void main(String[] args) {
+        // Print Hello, World! to the console
+        System
